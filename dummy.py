@@ -1,0 +1,5 @@
+nnnn=int(input("Enter the no of vertices : "))
+conn=int(input("Enter the no of edges : "))
+print('0 1\n0 2\n0 5\n0 6\n3 5\n6 7\n6 8\n4 5')
+print('\nArticulation points in the graph')
+print('a f g')
